@@ -1,0 +1,24 @@
+[33mcommit eaa11461ede84adeecd2723ac801fdd63d2663c8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: yu <41243109@nfu.edu.com>
+Date:   Mon Nov 18 14:10:40 2024 +0800
+
+    Modified windows title
+
+[33mcommit bed01c947355312105c43e84a354f3a90c288728[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 53a651a 029fccd
+Author: yclin <lin8yc@gmail.com>
+Date:   Mon Nov 18 13:27:28 2024 +0800
+
+    Merge branch 'main' of github.com:nckugs/TcpFileSender
+
+[33mcommit 53a651aaeaa967a81756dc3d494c9fe45d67a06d[m
+Author: yclin <lin8yc@gmail.com>
+Date:   Mon Nov 18 13:06:13 2024 +0800
+
+    Initial commit in local repository
+
+[33mcommit 029fccd0604a9737fe6c4bfa3c52d77f43383b22[m
+Author: Yih-Chuan Lin <679721860@gs.ncku.edu.tw>
+Date:   Fri Nov 15 17:21:04 2024 +0800
+
+    Initial commit
